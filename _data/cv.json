@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Donald J. Liveoak",
     "email": "none@example.org",
     "phone": "",
     "website": "https://academicpages.github.io",
@@ -8,7 +8,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Ann Arbor, MI",
       "countryCode": "US",
       "region": ""
     },
@@ -30,123 +30,395 @@
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "name": "AV (formerly AeroVironment)",
+      "position": "OPTICAL SIMULATIONS INTERN",
+      "url": "",
+      "startDate": "May 2025",
+      "endDate": "present",
+      "summary": "",
+      "highlights": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "name": "MIT Kavli Insitute",
+      "position": "UNDERGRADUATE RESEARCHER",
+      "url": "",
+      "startDate": "June 2023",
+      "endDate": "present",
+      "summary": "• Developed 𝑁-body simulations to model the formation of close-in Neptunes • Implemented dynamical tides in 𝑁-body regime (REBOUNDx) using C • Used secular integration to probe dynamical history of recently discovered exoplanet",
+      "highlights": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "name": "University of Michigan-Dearborn, Department of Mathematics",
+      "position": "RESEARCH ASSISTANT I",
+      "url": "",
+      "startDate": "Aug 2024",
+      "endDate": "Feb 2024",
+      "summary": "• Proved theoretical recovery guarantees for 2D phase retrieval algorithms",
+      "highlights": []
+    },
+    {
+      "name": "Apex Microdevices",
+      "position": "INTERN RESEARCH SCIENTIST I",
+      "url": "",
+      "startDate": "Aug 2024",
+      "endDate": "Feb 2024",
+      "summary": "• Implemented machine learning models for applications in metalens design",
+      "highlights": []
+    },
+    {
+      "name": "BlueHalo (formerly UES, Inc.)",
+      "position": "STUDENT RESEARCHER",
+      "url": "",
+      "startDate": "Dec 2022",
+      "endDate": "Apr 2023",
+      "summary": "• Developed a data pipeline to process and analyze molecular beam epitaxy data",
+      "highlights": []
+    },
+    {
+      "name": "MIT Computer Science and Artificial Intelligence Laboratory",
+      "position": "UNDERGRADUATE RESEARCHER",
+      "url": "",
+      "startDate": "Dec 2022",
+      "endDate": "Apr 2023",
+      "summary": "• Derived and implemented algorithms for computing geodesic distance using anisotropic Laplacians",
+      "highlights": []
+    },
+    {
+      "name": "Air Force Research Laboratory",
+      "position": "RESEARCH ASSISTANT",
+      "url": "",
+      "startDate": "June 2022",
+      "endDate": "Aug 2023",
+      "summary": "• Used image processing to characterize quality of fabricated crystalline structures • Designed solution for collecting and organizing molecular beam epitaxy and characterization data",
+      "highlights": []
+    },
+    {
+      "name": "Research Science Institute",
+      "position": "RESEARCH SCHOLAR",
+      "url": "",
+      "startDate": "June 2021",
+      "endDate": "Aug 2021",
+      "summary": "• One of the 81 internationally selected students to participate in an intensive research program at MIT",
+      "highlights": []
+    },
+    {
+      "name": "University of Michigan-Dearborn, Department of Mathematics",
+      "position": "RESEARCH ASSISTANT I",
+      "url": "",
+      "startDate": "Feb 2021",
+      "endDate": "May 2022",
+      "summary": "• Derived, implemented, and analyzed algorithm for fast recovery of signals from phaseless measurements • Extended algorithm from one-dimensional signals to two-dimensional signals",
+      "highlights": []
+    },
+    {
+      "name": "Research Science Institute",
+      "position": "ASSISTANT DIRECTOR",
+      "url": "",
+      "startDate": "April 2024",
+      "endDate": "current",
+      "summary": "• Led team of over 25 staff to oversee smooth operation for research program of 100 students • Coordinated with MIT admin and staff to organize/oversee 40+ events and programs",
+      "highlights": []
+    },
+    {
+      "name": "FIRST Robotics Competition Team 7196",
+      "position": "ELECTRONICS/PROGRAMMING MENTOR",
+      "url": "",
+      "startDate": "Jan 2023",
+      "endDate": "Present",
+      "summary": "• Mentored Detroit Public School students in engineering principles and fundamentals",
+      "highlights": []
+    },
+    {
+      "name": "MIT Physics Department",
+      "position": "LEAD MENTOR, GRADER, NOTETAKER",
+      "url": "",
+      "startDate": "Nov 2023",
+      "endDate": "present",
+      "summary": "• Peer mentor for Classical Mechanics, Quantum Physics I, and Statistical Physics I • Graded MIT Classical Mechanics I-II, Quantum Physics II and Electromagnetic Theory I (G) • Notetaker for Relativistic QFT III",
+      "highlights": []
+    },
+    {
+      "name": "Research Science Institute",
+      "position": "ADMINISTRATIVE MANAGER",
+      "url": "",
+      "startDate": "April 2023",
+      "endDate": "Sept 2023",
+      "summary": "• Managed budget of $40,000 and coordinate reimbursements for staff of over 25 • Coordinated academic and research opportunities between 7+ academic institutions",
+      "highlights": []
+    },
+    {
+      "name": "Research Science Institute",
+      "position": "TEACHING ASSISTANT",
+      "url": "",
+      "startDate": "July 2022",
+      "endDate": "Aug 2022",
+      "summary": "• Advised students on research papers and presentations • Ran and organized end of program symposium with attendance of 200",
+      "highlights": []
+    },
+    {
+      "name": "University of Michigan-Dearborn, Department of Mathematics",
+      "position": "REU STUDENT MENTOR",
+      "url": "",
+      "startDate": "May 2024",
+      "endDate": "June 2024",
+      "summary": "• Advised undergraduate math students a part of the University of Michigan-Dearborn REU to complete summer-long research project",
+      "highlights": []
+    },
+    {
+      "name": "University of Michigan-Dearborn, Department of Mathematics",
+      "position": "TUTOR II",
+      "url": "",
+      "startDate": "Jan 2022",
+      "endDate": "May 2024",
+      "summary": "• Tutored for the Math Learning Center in introductory and advanced mathematics and physics courses",
+      "highlights": []
+    },
+    {
+      "name": "Wayne County Dispute Resolution Center",
+      "position": "DATA ENGINEER AND WEB DEVELOPMENT INTERN",
+      "url": "",
+      "startDate": "July 2020",
+      "endDate": "Aug 2022",
+      "summary": "• Created and implemented software solutions to improve company workflow through automating of different forms helping prevent over 600 evictions • Managed company database with 5,000+ client entries • Oversaw the development and maintained company website",
+      "highlights": []
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "UNIVERSITY OF MICHIGAN",
+      "area": "Doctor of Philosophy, Physics",
+      "studyType": "",
+      "startDate": "Sept 2025",
+      "endDate": "May 2030 (expected)",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "MASSACHUSETTS INSTITUTE OF TECHNOLOGY",
+      "area": "Bachelor of Science, Physics",
+      "studyType": "",
+      "startDate": "Sept 2022",
+      "endDate": "May 2025",
+      "gpa": "5.00/5.00",
+      "courses": [
+        "Relativistic QFT I-II (G)",
+        "Classical Mechanics III (G)",
+        "Electromagnetism II",
+        "Experimental Physics I",
+        "Statistical Physics I",
+        "Quantum Physics I-III",
+        "(Abstract) Algebra I",
+        "Fundamentals of Programming"
+      ]
+    },
+    {
+      "institution": "UNIVERSITY OF MICHIGAN-DEARBORN",
+      "area": "Non-degree Dual Enrollment Student",
+      "studyType": "",
+      "startDate": "Sept 2019",
+      "endDate": "Apr 2022",
+      "gpa": "4.00/4.00",
+      "courses": [
+        "59 credit hours completed in mathematics, physics, and computer science"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Scientific Computing/Presentation",
+      "level": "",
+      "keywords": [
+        "MATLAB",
+        "Python (+ standard AI/ML packages)",
+        "R",
+        "LaTeX",
+        "LabView"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "C#",
+        "C++",
+        "Swift 2.0"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "Javascript",
+        "CSS",
+        "GSuite",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Personal",
+      "level": "",
+      "keywords": [
+        "Problem solving",
+        "verbal/written communication",
+        "time management",
+        "teaching"
+      ]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Self-consitent Dynamical Tides in the REBOUNDx framework.",
+      "publisher": "The Astrophysical Journal, 989(1), 35",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "D. Liveoak, S. C Millholland, M. Vick, D. Tamayo."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Formation of Close-in Neptunes around Low-mass Stars through Breaking Resonant Chains.",
+      "publisher": "The Astrophysical Journal, 974(2), 207.",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "D. Liveoak & S. C Millholland."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Edge-Informed Estimation of Gaussian Point Spread Functions in Convolutional Blurring Models.",
+      "publisher": "2024 IEEE Conference on Computational Imaging Using Synthetic Apertures (CISA)",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "J. Hume, D. McDonald, A. Newman, D. Liveoak, Y. Hristova and A. Viswanathan."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Forming Hot Jupiters via Chaotic Tidal Migration.",
+      "publisher": "MIT Undergraduate Research Journal, Vol. 48",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "D. Liveoak & S. C Millholland."
+    },
+    {
+      "name": "Fast and Accurate 2D Phase Retrieval from Incomplete, Windowed Fourier Measurements.",
+      "publisher": "(in preparation)",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "M. Hamka, B. Hutchinson, D. Liveoak, Y. Hristova, and A. Viswanathan."
+    },
+    {
+      "name": "Warm Jupiter Formation via Chaotic Tidal Migration",
+      "publisher": "(in preparation)",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "D. Liveoak, S. C Millholland, M. Vick."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Formation of Close-in Neptunes around Low-Mass Stars Through Breaking Resonant Chains.",
+      "event": "Oral presentation at 245th AAS Meeting, Extrasolar Planets: Formation and Protoplanetary Disks",
+      "date": "Jan 2025",
+      "location": "National Harbor, MD",
+      "description": "D. Liveoak, S. C. Millholland"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Forming Hot Jupiters with Chaotic Tides.",
+      "event": "Poster presentation at 245th AAS Meeting, Extrasolar Planets: Formation and Protoplanetary Disks",
+      "date": "Jan 2025",
+      "location": "National Harbor, MD",
+      "description": "D. Liveoak, S. C. Millholland, M. Vick"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "Forming Hot Jupiters with Chaotic Tides.",
+      "event": "Poster presentation at 245th AAS Meeting, Chambliss Student Poster Competition Finalist Round",
+      "date": "Jan 2025",
+      "location": "National Harbor, MD",
+      "description": "D. Liveoak, S. C. Millholland, M. Vick"
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Formation of Close-in Neptunes around Low-Mass Stars Through Breaking Resonant Chains.",
+      "event": "Oral presentation given at the Summer MKI Undergraduate Research Forum",
+      "date": "Aug 2024",
+      "location": "Cambridge, MA",
+      "description": "D. Liveoak, S. C. Millholland"
+    },
+    {
+      "name": "Fast and Accurate Phase Retrieval from Incomplete, Windowed Fourier Measurements.",
+      "event": "Poster presentation given at the 2023 Joint Mathematics Meetings Pi Mu Epsilon Contributed Session on Research by Undergraduates, VIII",
+      "date": "Jan 2023",
+      "location": "",
+      "description": "B. Hutchinson, M. Hamka, D. Liveoak"
+    },
+    {
+      "name": "Schrödinger Bridges on Discrete Domains.",
+      "event": "Poster presentation given at the Regeneron International Science and Engineering Fair 2022",
+      "date": "May 2022",
+      "location": "",
+      "description": "D. Liveoak, J. Solomon"
+    },
+    {
+      "name": "Interpolation Algorithms using Superposition of Quantum States.",
+      "event": "Poster presentation given at the UM-Dearborn Natural Sciences Poster Session",
+      "date": "April 2022",
+      "location": "",
+      "description": "D. Liveoak, J. Wang"
+    },
+    {
+      "name": "Discrete Schrödinger Bridges.",
+      "event": "Oral presentation given at Research Science Institute Symposium",
+      "date": "Aug 2021",
+      "location": "",
+      "description": "D. Liveoak, J. Solomon"
     }
   ],
-  "teaching": [
+  "teaching": [],
+  "portfolio": [],
+  "awards": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "name": "Rackham Merit Fellowship",
+      "date": "2025",
+      "awarder": "University of Michigan, Rackham Graduate School",
+      "summary": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "name": "Barrett Prize – Outstanding Research in Astrophysics",
+      "date": "2025",
+      "awarder": "MIT Department of Physics",
+      "summary": ""
+    },
+    {
+      "name": "Graduate Research Fellowship",
+      "date": "2025",
+      "awarder": "National Science Foundation GRFP",
+      "summary": ""
+    },
+    {
+      "name": "Phi Beta Kappa",
+      "date": "2025",
+      "awarder": "Massachusetts Institute of Technology",
+      "summary": ""
+    },
+    {
+      "name": "Sigma Pi Sigma",
+      "date": "2025",
+      "awarder": "Massachusetts Institute of Technology",
+      "summary": ""
+    },
+    {
+      "name": "Finalist, American Astronomical Society Chambliss Competition",
+      "date": "2025",
+      "awarder": "",
+      "summary": ""
     }
   ],
-  "portfolio": [
+  "mediaCoverage": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "title": "Close-in Neptune Formation (Liveoak & Millholland 2024) featured in AAS Nova Highlights.",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": ""
     }
   ]
 }
