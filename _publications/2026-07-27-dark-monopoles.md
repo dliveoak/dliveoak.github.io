@@ -2,9 +2,9 @@
 title: "Dark Monopoles, Bounds on Hidden Sectors, and Cosmological Implications"
 collection: publications
 category: bsm
-permalink: /publication/2026-07-01-dark-monopoles
+permalink: /publication/2026-07-27-dark-monopoles
 excerpt: #''
-date: 2026-07-01
+date: 2026-07-27
 venue: #
 slidesurl: #
 paperurl: 'https://arxiv.org/abs/2607.20843'
