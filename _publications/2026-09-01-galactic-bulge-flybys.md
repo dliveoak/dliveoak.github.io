@@ -1,7 +1,7 @@
 ---
 title: "Shaving the Outskirts of Planetary Systems in the Galactic Bulge via Stellar Flybys"
 collection: publications
-category: manuscripts
+category: planets
 permalink: /publication/2026-09-01-galactic-bulge-flybys
 excerpt: #''
 date: 2026-09-01

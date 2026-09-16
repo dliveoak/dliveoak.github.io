@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "DJ Liveoak"
   pronouns         : # example: "she/her"  
-  bio              : "Physics PhD student with interests in exoplanet formation, imaging, and condensed matter physics"
-  location         : "Earth"
+  bio              : "Physics PhD student with interests in theoretical astrophysics"
+  location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL
   email            : "dliveoak at umich dot edu" 
@@ -82,10 +82,14 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  bsm:
+    title: 'Beyond the Standard Model Phenomenology' 
+  planets:
+    title: 'Exoplanet Dynamics'
+  other:
+    title: 'Other Contributions'
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Proceedings'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

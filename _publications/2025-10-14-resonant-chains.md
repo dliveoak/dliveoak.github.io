@@ -1,7 +1,7 @@
 ---
 title: "Formation of Close-in Neptunes around Low-mass Stars through Breaking Resonant Chains"
 collection: publications
-category: manuscripts
+category: planets
 permalink: /publication/2025-10-14-resonant-chains
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-10-14
