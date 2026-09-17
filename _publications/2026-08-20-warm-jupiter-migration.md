@@ -1,7 +1,7 @@
 ---
 title: "Case Study of a Super-eccentric Warm Jupiter Migrating via Equilibrium and Dynamical Tides"
-collection: planets
-category: manuscripts
+collection: publications
+category: planets
 permalink: /publication/2026-08-20-warm-jupiter-migration
 excerpt: #''
 date: 2026-08-20
